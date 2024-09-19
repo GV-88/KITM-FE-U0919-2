@@ -1,0 +1,23 @@
+body > .container {
+  min-height: 100vh;
+}
+
+.centerbox,
+footer ul {
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centerbox.action {
+  text-align: center;
+}
+
+footer ul li {
+  list-style: none;
+  display: inline;
+}
+
+.quotation {
+  text-align: right;
+}

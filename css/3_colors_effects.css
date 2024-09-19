@@ -1,0 +1,49 @@
+header,
+.action,
+section,
+footer {
+  background-color: #346;
+  color: #fff;
+}
+
+header {
+  background-color: #49d;
+}
+
+.message {
+  background-color: #0c7;
+  border-color: #0a5;
+}
+
+.action {
+  background-color: #d55;
+  border-color: #b22;
+}
+
+.action a {
+  color: #fff;
+}
+
+.action a:hover {
+  color: #fbb;
+}
+
+footer {
+  background-color: #123;
+}
+
+footer nav {
+  color: #69b;
+}
+
+footer nav a {
+  color: #49d;
+}
+
+footer nav a:hover {
+  color: #7cf;
+}
+
+main {
+  background-color: #dee;
+}
